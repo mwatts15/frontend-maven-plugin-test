@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "example project for testing frontend-maven-plugin",
+  "dependencies": {
+    "karma": "~4.4.1",
+    "karma-jasmine": "~2.0.1",
+    "jasmine-core": "^3.5.0"
+  },
+  "scripts": {
+    "prebuild": "npm install",
+    "build": "cat"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^3.1.0"
+  }
+}
