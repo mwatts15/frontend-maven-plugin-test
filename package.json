@@ -4,7 +4,7 @@
   "description": "example project for testing frontend-maven-plugin",
   "dependencies": {
     "jasmine-core": "^3.5.0",
-    "karma": "~4.4.1",
+    "karma": "~6.3.14",
     "karma-jasmine": "~2.0.1"
   },
   "scripts": {
